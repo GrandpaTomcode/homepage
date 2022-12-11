@@ -9,7 +9,7 @@
         "@testing-library/user-event": "^8.1.0 ",
         "browserify-fs": "^1.0.0",
         "core-js": "^3.6.4",
-        "express": "^4.17.1",
+        "express": "^4.17.3",
         "firebase": "^7.8.0",
         "googleapis": "^47.0.0 ",
         "nodemon": "^2.0.2",
